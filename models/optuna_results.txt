@@ -1,0 +1,23 @@
+EmotionCNN, 20 trials, 5 epochs:
+
+Best trial:
+  Value: 61.25211505922166
+  Params: 
+    batch_size: 128
+    dropout_rate: 0.5690799214669463
+    optimizer: Adam
+    learning_rate: 0.0011680662319989209
+    weight_decay: 1.0103576576704734e-05
+
+
+
+DeepEmotionCNN, 20 trials, 5 epochs:
+
+Best trial:
+  Value: 69.44162436548223
+  Params: 
+    batch_size: 64
+    dropout_rate: 0.20433036880014452
+    optimizer: RMSprop
+    learning_rate: 0.0006419477767410103
+    weight_decay: 1.4547307271298078e-05
