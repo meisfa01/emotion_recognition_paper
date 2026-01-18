@@ -11,7 +11,7 @@ import time
 # Global Configuration
 # ==========================================
 PREDICTION_AVG_WINDOW = 10
-PREDICTION_THRESHOLD = 0.5  
+PREDICTION_THRESHOLD = 0.6  
 
 
 MODEL_PATH = "models/emotion_model_deep_40.pth" 
